@@ -1,0 +1,2 @@
+look string size 15 random 
+
