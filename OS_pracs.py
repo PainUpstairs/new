@@ -8,7 +8,7 @@ def getRightSide(data, s, e):
         for i in range(0, len(data)):
             if data[i] == j:
                 listR.append(data[i])
-# fsgfg
+# fsgfgds
     return listR
 
 def getLeftSide(data, s, e):
